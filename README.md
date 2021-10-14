@@ -2,7 +2,7 @@
 
 동양북스 『가장 쉬운 독학 알고리즘 첫걸음 - C&자바편』의 깃허브 저장소입니다.
 
-<img src="./Readme/cover.jpg" width="400" height="544">
+<img src="./readme/cover.jpg" width="400" height="544">
 
 ## 예제 파일 다운로드
 저장소를 클론하지 않을 분은 [이곳](https://bit.ly/30uEf4x)을 눌러서 예제 파일을 다운로드하세요.
